@@ -1,0 +1,131 @@
+# TechXfluence AI - Knowledge Base
+# ---------------------------------------------------------------
+# FORMAT (easy to edit by hand):
+#   === SECTION: <title> ===
+#   SOURCE: <official page URL>
+#   <text for this section...>
+#
+# Lines starting with '#' (outside a section body) are comments.
+# Collected from https://www.techxfluence.com/ on 27 Oct 2026.
+# Website content changes - re-run ingest_website.py or edit this file
+# to refresh it. Only add VERIFIED public information here.
+# ---------------------------------------------------------------
+
+=== SECTION: About TechXfluence ===
+SOURCE: https://www.techxfluence.com/
+TechXfluence (written "Techxfluence" on the website) is a technology community and event ecosystem focused on building India's tech community. Its tagline is "Where Technology Meets Influence." The community tagline is "Built by the community - We Connect". The community slogan is "Connect. Learn. Build. Influence."
+TechXfluence is based in Chennai, Tamil Nadu, India.
+It brings together developers, entrepreneurs, startups, students, creators and technology enthusiasts through events, networking and collaborative learning. It runs in-person meetups, workshops, hackathons and conferences across India, and aims to keep the community active between events.
+
+=== SECTION: Mission, Vision and Values ===
+SOURCE: https://www.techxfluence.com/about
+Mission: "To create a thriving technology ecosystem where people connect, learn, build and grow together."
+Vision: "To become India's most influential technology community platform." This means a community of innovators building the future.
+Values:
+- Community first: the people involved come first; a sense of belonging matters more than vanity metrics.
+- Learn by building: hands-on hackathons, workshops and demos are preferred over passive talks.
+- Open and inclusive: the community welcomes people at every career stage, in every city and from every background.
+- Give before you take: mentorship, introductions and knowledge are shared freely; contribution is the main currency.
+
+=== SECTION: Growth Plan ===
+SOURCE: https://www.techxfluence.com/about
+The About page describes a three-year plan: 1,000 members in Year 1 (chapters across Tamil Nadu), 5,000 members in Year 2 (metro expansion and flagship hackathons), and 15,000 members in Year 3 (national presence and a partner ecosystem).
+The About page does not name or describe any team members or leadership, and does not include a founding story.
+
+=== SECTION: Community Activities and Event Formats ===
+SOURCE: https://www.techxfluence.com/
+Event and activity formats listed on the website:
+- Monthly Meetups: recurring city meetups with short local talks and an open floor. Open to anyone in tech.
+- Hackathons: weekend build sprints with prizes. Teams can form on the day or come prepared.
+- Workshops: hands-on, expert-led sessions where participants build alongside the instructor. Kept small.
+- Startup Showcases: a stage for early-stage teams to pitch to founders and operators.
+- Mentorship: one-on-one guidance from senior operators on career, product or technical topics.
+- Innovation Challenges: monthly contests and open-source bounties, solo or team entry, with public recognition.
+Event categories on the platform: Meetup, Hackathon, Workshop, Webinar, Conference, Networking and Product Launch.
+
+=== SECTION: Featured Event (snapshot) ===
+SOURCE: https://www.techxfluence.com/
+At the time this knowledge base was collected, the homepage featured the event "How to Work with AI, 4-Week Workshop": price Rs. 499 (INR 499), Saturday 31 October at 10:00 AM, hosted by Virtual Alliance Studios, location Chennai, tags AI / artificial intelligence / design / industry.
+This is only a snapshot. Event dates, prices and availability change often - always check the official Events page for current listings.
+
+=== SECTION: TXF Tech Services - Overview ===
+SOURCE: https://www.techxfluence.com/Techservice
+TXF Tech Services is the design and development service of TechXfluence. Its tagline is "We Design. We Develop. We Deliver."
+Services offered:
+1. Website Design - distinctive, on-brand sites built around business goals.
+2. UI/UX Design - research-led interfaces that users can grasp quickly.
+3. Website Development - scalable builds on modern frameworks.
+4. Landing Pages - focused pages designed to convert campaign traffic.
+5. Web Applications - dashboards, portals and SaaS products built to scale.
+6. Brand and Marketing Assets - identity, social and campaign visuals kept consistent.
+7. Responsive and Mobile-First - designed for phones first, then refined for every screen.
+8. Maintenance and Optimization - updates, speed, SEO and security.
+
+=== SECTION: TXF Tech Services - Work Process ===
+SOURCE: https://www.techxfluence.com/Techservice
+The services page describes a five-step process:
+1. Discover - define goals, users and research.
+2. Design - create UX, visuals and prototypes.
+3. Develop - build, integrate and test.
+4. Launch - ship and go live.
+5. Optimize - measure results and improve.
+Enquiries for services: admin@techxfluence.com (Chennai, India). The FAQ on the services page says responses come within 1-2 working days.
+
+=== SECTION: Membership Plans ===
+SOURCE: https://www.techxfluence.com/membership
+There are three membership tiers:
+- Free Member: Rs. 0 forever. Includes event attendance, ticket and QR check-in history, a private group for each event you attend, and the community feed plus monthly newsletter. The page says "Come to anything. Always."
+- Pro Member: Rs. 499 per month (labelled "Most popular"). Everything in Free, plus seeing who is attending events, the full member directory, priority registration on limited seats, and member pricing on paid events (25% off according to the homepage comparison table).
+- Elite Member: Rs. 1,499 per month. Everything in Pro, plus speaking slots and session hosting, 1:1 mentorship matching, chapter leadership opportunities and a featured directory profile. Member pricing on paid events is 50% off according to the homepage comparison table.
+Volunteer and Community Ambassador roles are open to members of any tier.
+Note: the homepage comparison table marks priority registration, speaking slots, 1:1 mentorship matching and chapter leadership as "Coming soon", so availability of those perks may vary - check the membership page.
+
+=== SECTION: Membership Benefits and Policy ===
+SOURCE: https://www.techxfluence.com/membership
+Benefits described across tiers: free or discounted access to select events and member pricing on others; priority registration for limited-seat workshops and hackathons; exclusive events such as member-only sessions and founder dinners; networking introductions to founders, engineers, designers and investors; partner discounts on developer tools, cloud credits and courses; leadership opportunities such as hosting tracks and serving as an ambassador; badges, points and certificates for community contributions.
+Every event remains open to all tiers. Principle stated on the homepage: "Attending is always free. Seeing the room isn't."
+According to the homepage, memberships can be cancelled at any time, and members keep their badges, credits and attendance history.
+
+=== SECTION: Hosting an Event - Process ===
+SOURCE: https://www.techxfluence.com/host
+Organizations, startups, colleges and individuals can host events on TechXfluence through the "Host an event" page. The hosting process has five steps:
+1. Event Submission - enter event details such as date, venue, category and format.
+2. Review and Approval - the team checks feasibility and confirms the slot.
+3. Event Goes Live - the listing is published and opens for registration.
+4. Promotion and Support - TechXfluence promotes the event across its channels and supports the organizer.
+5. Manage Event - organizers track registrations, attendees, check-ins and analytics.
+
+=== SECTION: Hosting an Event - Requirements and Features ===
+SOURCE: https://www.techxfluence.com/host
+Information needed to submit an event: event title; category (Meetup, Workshop, Webinar, Hackathon, Conference, Networking or Product Launch); date, start and end time; city and venue; ticketing type (free entry or paid tickets); capacity; organizer email and phone; event description; optional tags; and agreement to the Event Organizer Agreement and Terms and Conditions.
+Platform features for organizers: registration and ticketing (sign-ups, payments, QR check-in); promotion to members through email, Discord and social media; access to a partner network for venue, prizes and budget; live analytics dashboards for registrations, attendance and feedback.
+The hosting page does not list any fees or pricing, and has no FAQ section.
+
+=== SECTION: Careers - Open Roles ===
+SOURCE: https://www.techxfluence.com/careers
+Open roles listed on the Careers page when this knowledge base was collected (Chennai, Tamil Nadu, India):
+1. Community Manager - Full-time, Chennai / Hybrid. Runs events, nurtures members and turns first-timers into regulars across chapters.
+2. Frontend Engineer - Full-time, Remote (India). Owns the web experience for the event and membership platform, using React and Next.js.
+3. Events and Partnerships Lead - Full-time, Chennai. Designs flagship hackathons and secures partners and sponsors.
+4. Content and Social Creator - Part-time / Contract, Remote (India). Creates recaps, reels and threads that show the community's activity.
+Openings change - check the Careers page for the current list. No internship listing appears in this knowledge base.
+
+=== SECTION: Careers - How to Apply ===
+SOURCE: https://www.techxfluence.com/careers
+Click the Apply button under a role; it opens the contact form with that role already selected. If no role fits, the page says "Don't see a perfect fit? We still want to hear from you." and suggests using "Get in touch" on the contact page: https://www.techxfluence.com/contact
+Email for careers questions: admin@techxfluence.com. You can also join as a member at https://www.techxfluence.com/membership.
+
+=== SECTION: Contact Information ===
+SOURCE: https://www.techxfluence.com/contact
+Email: admin@techxfluence.com
+Location: Chennai, Tamil Nadu, India. No street address and no phone number are listed on the website.
+Contact page: https://www.techxfluence.com/contact - a form with an email field, a topic dropdown and a message box. Topics: General enquiry, Host an event, Partnership / Sponsorship, Membership, Press / Media, Careers / Job Application.
+Social channels: LinkedIn, Instagram, YouTube and Discord. A weekly newsletter sign-up ("Stay in the loop") is available for updates on upcoming events, opportunities and resources.
+
+=== SECTION: Website Structure and Links ===
+SOURCE: https://www.techxfluence.com/
+Main menu: Events, Chapters, Community, Membership, My tickets, Sign in, Host an event.
+Platform: Events, Membership, Host an Event, Activities, Admin Console.
+Company: Chapters, About Us, TXF Tech Services, Careers, Partners, Contact.
+Legal: Terms and Conditions, Organizer Agreement, Membership Handbook.
+Official pages: https://www.techxfluence.com/ , https://www.techxfluence.com/about , https://www.techxfluence.com/Techservice , https://www.techxfluence.com/membership , https://www.techxfluence.com/host , https://www.techxfluence.com/careers , https://www.techxfluence.com/contact
